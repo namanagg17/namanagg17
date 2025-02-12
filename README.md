@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @namanagg17
 - 👀 I’m interested in learning new things 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on vs code, google collab
 - 📫 How to reach me on my email aggarwalnaman006@gmail.com
 - 😄 Pronouns: He/him
